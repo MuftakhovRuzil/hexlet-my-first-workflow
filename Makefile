@@ -1,2 +1,2 @@
 say-hello:
-	print_r ('Hello, World!')
+	@echo "Hello, World!"
